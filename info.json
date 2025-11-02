@@ -1,0 +1,14 @@
+
+{
+	"name": "promethium-asteroid-stacking",
+	"version": "0.0.1",
+	"date": "2025-11-2",
+	"author": "JATMN",
+	"factorio_version": "2.0",
+	"dependencies": [
+	  "space-age >= 2.0.72"	
+	],  	
+	"space_travel_required": true,
+	"title": "Promethium Asteroid Stacking",  
+	"description": "Lets you adjust the stack size of Promethium Asteroid Chunks"
+}
