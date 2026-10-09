@@ -1,12 +1,12 @@
 
 {
 	"name": "promethium-asteroid-stacking",
-	"version": "0.0.1",
-	"date": "2025-11-2",
+	"version": "0.0.2",
+	"date": "2026-10-08",
 	"author": "JATMN",
-	"factorio_version": "2.0",
+	"factorio_version": "2.1",
 	"dependencies": [
-	  "space-age >= 2.0.72"	
+	  "space-age >= 2.1.21"
 	],  	
 	"space_travel_required": true,
 	"title": "Promethium Asteroid Stacking",  
